@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+.menu {
+    width: 600px;
+    margin: 16px auto;
+    text-align: center;
+    border: 5px solid yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    margin-top: 0px;
+    background-color: aliceblue;
+}
+
+.recipe-button {
+    display: block;
+    padding: 10px;
+    margin: 10px auto;
+    background-color: bisque;
+    width: 200px;
+}

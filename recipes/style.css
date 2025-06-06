@@ -1,0 +1,32 @@
+.guide {
+    width: 800px;
+    margin: 16px auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.heading {
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+}
+
+.home-button {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    background-color: yellow;
+    width: 50px;
+    border: 1px solid black;
+}
+
+.list {
+    width: 500px;
+    margin: 5px auto;
+}
